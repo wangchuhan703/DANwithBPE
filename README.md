@@ -1,6 +1,5 @@
-# DANwithBPE
-Introduction:  A DAN (Deep Averaging Network) network implementation using the subword tokenization method -- BPE (Byte Pair Encoding).
 # **Text sentiment analysis on DAN models**
+Introduction:  Built a DAN (Deep Averaging Network) network using the subword tokenization method -- BPE (Byte Pair Encoding). Implemented text sentiment analysis on the DAN model.
 
 ## **How to run the files:**
 
